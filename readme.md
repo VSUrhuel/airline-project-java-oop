@@ -1,8 +1,8 @@
-#Airline Project
-##Encapsulation OOP
-###Created by Sir Jomari Joseph Barera | Instructor at Visayas State University
+# Airline Project 
+### Problem by Sir Jomari Joseph Barera | Instructor at Visayas State University
 
 **Introduction**
+
 The *Maharlika Filipina Airlines* owns several airplanes and an airline booking system. Some of their airplanes may have or may not have business class seats but all of them have economy seats of at least 7 rows. 
 
 Even though each airplane might vary in seat size, they have the same seat column arrangement, they only differ in how many rows each airplane can contain. In business class, there are four columns W, X, Y, and Z in that order from the left. In economy, there are 7 columns A, B, C, D, E, F, and G. Therefore, an airplane having the minimum number of seats can contain no business class seats (0 rows) and 49 economy seats (7 rows). Thus, the seat capacity of an airplane can only be increased by the seat proportional to the number of rows, e.g. in business class: 12 seats (3 rows) or 28 seats (7 rows) and in economy: 63 seats (9 rows) or 84 seats (12 rows).
@@ -31,4 +31,4 @@ Implement the **Seat** class with the following constraints:
 3. For the isAvailable method, return true if there exist a Passenger object in the seat and false otherwise.
 4. For the setPassenger mutator, assign the passenger attribute by the value of its parameter if currently there exist no Passenger object in the seat then return true, otherwise, the assignment should not be done and the mutator should return false.
 
-###This project is part of our Laboratory Exam in OOP in Java at VSU.
+### This project is part of our Laboratory Exam in OOP in Java at VSU.
