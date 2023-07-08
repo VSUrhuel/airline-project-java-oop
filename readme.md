@@ -10,12 +10,17 @@ The seat capacity of an airplane can be increased by adding seats proportional t
 
 Booking restrictions apply to economy seats. The first row is reserved for passengers with disabilities (PWD). If a passenger who is not a PWD tries to book a seat in the first row and there is at least one vacant seat in any row starting from the second row, the booking cannot be made. However, if all seats from the second row onwards are taken, the passenger can book a seat in the first row even if they are not a PWD. Business class seats do not have any such restrictions.
 
+## UML Diagaram
+
+
+![Airline UML Diagram](AirlineProject (1).png)
+
 ## Repository Contents
 
 - `Airplane.java`: Implementation of the `Airplane` class, which represents an airplane with seat reservations.
 - `Passenger.java`: Implementation of the `Passenger` class, which represents a passenger with a name.
 - `Seat.java`: Implementation of the `Seat` class, which represents a seat on an airplane.
-- `AirlineBookingSystemDemo.java`: A demo program showcasing the usage of the airline booking system.
+- `Main.java`: A demo program showcasing the usage of the airline booking system.
 
 ## Class Descriptions
 
