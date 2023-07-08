@@ -12,8 +12,7 @@ Booking restrictions apply to economy seats. The first row is reserved for passe
 
 ## UML Diagaram
 
-
-![Airline UML Diagram](AirlineProject (1).png)
+![Airline UML Diagram](AirlineProject.png)
 
 ## Repository Contents
 
